@@ -1,5 +1,7 @@
 # Hello, I'm Phyo Thiha.
-<a> href="(https://www.linkedin.com/in/phyo-thiha/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" </a>
+<a href="https://www.linkedin.com/in/phyo-thiha/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 I am a cybersecurity enthusiast college student with over a year of experience developing and experimenting with cybersecurity-related projects. I appreciate learning new things and am a quick learner. I'm seeking for an organization or community.
 
