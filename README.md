@@ -1,5 +1,5 @@
 # Hello, I'm Phyo Thiha.
-<a href="(https://www.linkedin.com/in/phyo-thiha-8707a41ba/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/phyo-thiha/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity enthusiast college student with over a year of experience developing and experimenting with cybersecurity-related projects. I appreciate learning new things and am a quick learner. I'm seeking for an organization or community.
 
@@ -39,7 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Alibaba_Cloud_Apsara_Clouder_Certification-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
